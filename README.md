@@ -11,6 +11,7 @@
 - HTML
 - CSS
 - JAVASCRIPT
+- BOOTSTRAP
 - Git e Github
 
 ## Contato
